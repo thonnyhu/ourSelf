@@ -1,0 +1,15 @@
+1.项目名称：类似于kakaco 的电商比价网站
+	类型：o2o （线上to线下）
+	主要语言：java
+	架构：标准mvc
+	数据库：mysql
+	Controller：Spring
+	View：Struts
+	DAO：hibernate
+	页面：js+html5+jquery+css
+
+2.开发任务：按模块划分
+	周期：以周为单位
+	审核人：自我审核，代码公开，别人随时能看
+	
+3.立项日期：2014-10-21
